@@ -86,5 +86,3 @@ This project is licensed under the [MIT License](LICENSE).
 - FAISS: [https://github.com/facebookresearch/faiss](https://github.com/facebookresearch/faiss)
 
 ---
-
-Feel free to customize this template according to the specific details of your application. Include additional sections as needed and provide thorough instructions for users to set up and use your Streamlit PDF Chat application.
